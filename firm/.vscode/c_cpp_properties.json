@@ -10,9 +10,10 @@
             "includePath": [
                 "d:/Code/wacca-vfd/firm/include",
                 "d:/Code/wacca-vfd/firm/src",
+                "d:/Code/wacca-vfd/firm/.pio/libdeps/sparkfun_promicro8/EEPROMWearLevel/src",
+                "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro",
-                "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
@@ -24,9 +25,10 @@
                 "path": [
                     "d:/Code/wacca-vfd/firm/include",
                     "d:/Code/wacca-vfd/firm/src",
+                    "d:/Code/wacca-vfd/firm/.pio/libdeps/sparkfun_promicro8/EEPROMWearLevel/src",
+                    "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/variants/sparkfun_promicro",
-                    "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "C:/Users/akasaka/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",

@@ -2,11 +2,17 @@
 
 Controls the VFD display of WACCA cabinet from an Arduino.
 
+[example video](https://twitter.com/akasaka_spk/status/1659505635078311936)
+
 ## Schematic
 
-(sorry, no picture)
+![schematic](sch/schematic.png)
 
 Rx,Tx of Arduino Pro Micro -> MAX232 -> Tx,Rx of VFD display (COM2 cable on WACCA cabinet)
+
+Pin 2 of Arduino -> Coin selector (N-O contact)
+
+Gnd of Arduino -> Coin selector (COM contact)
 
 For other connections around MAX232 see tutorials online such as the one in [DIYODE Magazine](https://diyodemag.com/education/the_classroom_rs232_the_max232_ic_arduino_uno).
 

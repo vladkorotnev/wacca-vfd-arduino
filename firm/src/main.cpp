@@ -58,6 +58,11 @@ bool task_coin() {
 void setup() {
   cfg_begin();
   coin_begin();
+
+#ifdef STARTUP_DELAY
+  delay(STARTUP_DELAY);
+#endif
+
   ftb_init();
 
   ftb_reset();
